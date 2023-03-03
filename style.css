@@ -1,0 +1,145 @@
+body {
+background-color: #f7e6e6;
+padding: 50px;
+box-shadow: 0px 10px 10px ;
+margin: 50px auto;
+border-radius: 4px;
+    color: #e87373;
+    font-family: arial;
+    font-weight: 30;
+
+border: blue;
+
+.caret-color:
+ background-color:white; 
+ padding: 40px;
+ box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+ border-radius: 3px;
+ margin: 30px 30px;
+ text-align: left;
+
+
+
+
+
+
+
+h1 
+
+color: #ff7a7a;
+    font-family: 'Do Hyeon', sans-serif;
+    font-weight: 800;
+    letter-spacing: 4px;
+    font-size: !important;
+	
+
+
+}
+
+h2{ 
+	color : #4c749e; 
+font-family: arial black;
+font-weight: 500;
+letter-spacing: 100;
+font-size: initial;
+}
+
+
+a{
+    font-family:'Do Hyeon', sans-serif;
+	text-decoration: none;
+	color: #4c749e;
+
+font-weight: 20px;
+
+}
+a:hover{
+	color : #4c749e;
+}
+
+.container { 
+	width: 700px;
+	margin: 40px auto;
+ }
+@media (max-width: 500px){
+	.container{
+		width: 400px;
+	}
+}
+
+
+
+ .card-white { 
+ background-color:white; 
+ padding: 40px;
+ box-shadow: 10px 10px 30px rgba(0,0,0,0,1);
+ border-radius: 4px;
+ margin: 30px 30px;
+ text-align: center;
+
+}
+
+
+.img-circle{
+	border-radius: 50%;
+}
+ 
+.button {
+	background-color: #e87373;
+	color : white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.list-inline {
+
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+button:hover { 
+background-color:#4c749e; 
+color:white;
+}
+
+.list-inline {
+
+	disply : inline;
+	padding:20px;
+ }
+ .list-inline li{
+ 	display: inline;
+ 	padding:20px;
+ }
+
+.list-inline i {
+	font-size: 40px;
+	color: rgb(230,230,230);
+}
+  .list-inline i {
+  	font-size: 50px;
+  	color: #4c749e;
+  }
+
+.list-inline i:hover {
+  	font-size: 50px;
+  	color: #ff7a7a;
+  }
+
+}
+
+ 
+
+#introduction p{
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
